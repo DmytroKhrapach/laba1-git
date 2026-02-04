@@ -2,3 +2,4 @@ Hello git
 Second line
 Draft change
 Feature line
+MASTER change
