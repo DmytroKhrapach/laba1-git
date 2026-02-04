@@ -6,3 +6,4 @@ HEAD
 MASTER change
 FEATURE change
 feature
+Change from other clone
