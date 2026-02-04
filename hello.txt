@@ -2,4 +2,7 @@ Hello git
 Second line
 Draft change
 Feature line
+HEAD
 MASTER change
+FEATURE change
+feature
